@@ -1,4 +1,4 @@
-%%% This program is trying to acquire the best fit for the temprature 
+%%% This code is trying to acquire the best fit for the temprature 
 
 
 tvrtem=csvread('tvrtem.csv',1,0);  %% Choose data with ignoring the first line in the file
